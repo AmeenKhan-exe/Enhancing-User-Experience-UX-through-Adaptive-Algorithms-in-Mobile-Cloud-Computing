@@ -31,6 +31,8 @@ More Efficient Resource Utilization
 
 🛠️ Installation & Setup
 To get started, clone this repository and follow the instructions below:
+# Clone the repository
+git clone https://github.com/AmeenKhan-exe/Enhancing-User-Experience-UX-through-Adaptive-Algorithms-in-Mobile-Cloud-Computing.git
 bash
 Copy code
 # Navigate to the project directory
