@@ -1,7 +1,7 @@
 🌐 Mobile Cloud Computing (MCC) - Adaptive Algorithms for Enhanced User Experience
-![MCC Simulation 1](sandbox:/mnt/data/mcc_image1.jpg)
 
-![MCC Simulation 2](sandbox:/mnt/data/mcc_image2.jpg)
+![NS-3 Simulator Architecture](https://example.com/path-to-image.jpg)
+
 
 
 The advent of Mobile Cloud Computing (MCC) has significantly transformed the landscape of mobile applications by providing robust computational resources and storage capabilities via the cloud. This repository focuses on the implementation of adaptive algorithms to dynamically manage and optimize the User Experience (UX) in MCC environments.
