@@ -1,5 +1,4 @@
 🌐 Mobile Cloud Computing (MCC) - Adaptive Algorithms for Enhanced User Experience
-![maxresdefault](https://github.com/user-attachments/assets/7641fba8-3f71-4534-b7ad-c3acc0a4f4fd)
 
 The advent of Mobile Cloud Computing (MCC) has significantly transformed the landscape of mobile applications by providing robust computational resources and storage capabilities via the cloud. This repository focuses on the implementation of adaptive algorithms to dynamically manage and optimize the User Experience (UX) in MCC environments.
 
