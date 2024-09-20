@@ -1,6 +1,6 @@
 🌐 Mobile Cloud Computing (MCC) - Adaptive Algorithms for Enhanced User Experience
 
-![NS-3 Simulator Architecture](https://example.com/path-to-image.jpg)
+![NS-3 Simulator Architecture](https://www.researchgate.net/figure/NS-3-Simulator-Architecture_fig3_332764053)
 
 
 
